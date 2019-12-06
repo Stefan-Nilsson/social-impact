@@ -368,3 +368,5 @@ a:hover, a:focus, a:active {
 body {
   font-family:"Helvetica Neue"
 }
+
+#extra {color:black; opacity:50%;margin-top:5%;}
