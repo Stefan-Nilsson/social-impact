@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro';
+  font-family:"Helvetica Neue"
 }
 
 .btn-xl {
@@ -93,10 +93,12 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/emmy-smith-LEjEst7lLfU-unsplash.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  color:ghostwhite;
+  font-family: "Helvetica Neue";
 }
 
 .masthead h1 {
@@ -213,7 +215,7 @@ h6 {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-callout.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/emmy-smith-LEjEst7lLfU-unsplash.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
