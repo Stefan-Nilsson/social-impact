@@ -125,7 +125,7 @@ h6 {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #343a40;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -369,4 +369,4 @@ body {
   font-family:"Helvetica Neue"
 }
 
-#extra {color:black; opacity:50%;margin-top:5%;}
+#extra {color:whitesmoke; opacity:50%;margin-top:5%;}
