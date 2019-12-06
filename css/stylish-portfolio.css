@@ -370,3 +370,4 @@ body {
 }
 
 #extra {color:whitesmoke; opacity:50%;margin-top:5%;}
+@media (min-width: 992px) { ... }
