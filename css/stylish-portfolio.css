@@ -366,7 +366,7 @@ a:hover, a:focus, a:active {
   color: #ecb807 !important;
 }
 body {
-  font-family:"Rudiment"
+  font-family:"vendorRudiment.ttf"
 }
 
 #extra {color:whitesmoke; opacity:50%;margin-top:5%;}
